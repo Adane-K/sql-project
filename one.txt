@@ -1,0 +1,5 @@
+This is a practice
+
+1. sql desktop/ server
+2. Node js (server side running)
+3. Git (distributed version control)
